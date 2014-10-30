@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="suite1" >
+
+<test name="DSMB_Automation">
+    <classes>
+   		<class name="Automation.O2TDriverScript" ></class>
+    </classes>
+</test>
+</suite>

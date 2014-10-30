@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite1" duration-ms="38378" started-at="2014-10-30T11:43:17Z" finished-at="2014-10-30T11:43:56Z">
+    <groups>
+    </groups>
+    <test name="DSMB_Automation" duration-ms="38378" started-at="2014-10-30T11:43:17Z" finished-at="2014-10-30T11:43:56Z">
+      <class name="Automation.O2TDriverScript">
+        <test-method status="PASS" signature="ReadUtilFile()[pri:0, instance:Automation.O2TDriverScript@39699c]" name="ReadUtilFile" duration-ms="38368" started-at="2014-10-30T11:43:17Z" finished-at="2014-10-30T11:43:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadUtilFile -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Automation.O2TDriverScript@39699c]" name="close" is-config="true" duration-ms="0" started-at="2014-10-30T11:43:56Z" finished-at="2014-10-30T11:43:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Automation.O2TDriverScript -->
+    </test> <!-- DSMB_Automation -->
+  </suite> <!-- suite1 -->
+</testng-results>
